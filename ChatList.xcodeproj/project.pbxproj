@@ -17,6 +17,7 @@
 		C8EF9A8E293B5C6500C04A12 /* ChatListUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8EF9A8D293B5C6500C04A12 /* ChatListUITestsLaunchTests.swift */; };
 		C8EF9A9B293B5DF000C04A12 /* Chat.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8EF9A9A293B5DF000C04A12 /* Chat.swift */; };
 		C8EF9A9D293B5E2A00C04A12 /* ChatListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8EF9A9C293B5E2A00C04A12 /* ChatListViewController.swift */; };
+		C8EF9A9F293B65AC00C04A12 /* ChatListCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8EF9A9E293B65AC00C04A12 /* ChatListCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C8EF9A8D293B5C6500C04A12 /* ChatListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatListUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		C8EF9A9A293B5DF000C04A12 /* Chat.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Chat.swift; sourceTree = "<group>"; };
 		C8EF9A9C293B5E2A00C04A12 /* ChatListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatListViewController.swift; sourceTree = "<group>"; };
+		C8EF9A9E293B65AC00C04A12 /* ChatListCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatListCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				C8EF9A9A293B5DF000C04A12 /* Chat.swift */,
 				C8EF9A70293B5C6400C04A12 /* Main.storyboard */,
 				C8EF9A9C293B5E2A00C04A12 /* ChatListViewController.swift */,
+				C8EF9A9E293B65AC00C04A12 /* ChatListCollectionViewCell.swift */,
 				C8EF9A73293B5C6500C04A12 /* Assets.xcassets */,
 				C8EF9A75293B5C6500C04A12 /* LaunchScreen.storyboard */,
 				C8EF9A78293B5C6500C04A12 /* Info.plist */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C8EF9A9F293B65AC00C04A12 /* ChatListCollectionViewCell.swift in Sources */,
 				C8EF9A9B293B5DF000C04A12 /* Chat.swift in Sources */,
 				C8EF9A6B293B5C6400C04A12 /* AppDelegate.swift in Sources */,
 				C8EF9A9D293B5E2A00C04A12 /* ChatListViewController.swift in Sources */,
